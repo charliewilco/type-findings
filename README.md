@@ -22,6 +22,9 @@ Uh, please do?
 - ["Design By Numbers: Typography"](https://medium.com/@_dte/design-by-numbers-typography-2e5fd2f262e4) by Daniel Eden
 - ["There is no excuse for bad typography on the web."](https://medium.com/i-m-h-o/there-is-no-excuse-for-bad-typography-on-the-web-33030766a5bd) by Joshua Eithun
 - ["Run Ragged"](http://24ways.org/2013/run-ragged/) by Mark Boulton
+- ["Typ.io"](http://www.typ.io/)
+- ["7 Alternatives to Popular Web Typefaces for Better Performance"](http://cognition.happycog.com/article/7-alternatives-to-popular-web-typefaces-for-better-performance) by Katie Kovalcin
+- ["Selecting Typefaces for Body Text"](http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/) by Tim Brown
 
 ### CSS
 - ["Fluid Type"](http://trentwalton.com/2012/06/19/fluid-type/) by Trent Walton
@@ -33,6 +36,7 @@ Uh, please do?
 - ["Readable, Fluid Type With Basic CSS Smarts"](http://typecast.com/blog/readable-fluid-type-with-basic-css-smarts) by Val Head
 - ["There’s more to the CSS rem unit than font sizing"](http://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/) by Roman Rudenko
 - ["Font Sizing Idea"](http://css-tricks.com/rems-ems/) by Chris Coyier
+- ["Minimising Font Downloads"](http://jakearchibald.com/2014/minimising-font-downloads/) by Jake Archibald
 
 ### Online Tools
 
@@ -45,7 +49,7 @@ Uh, please do?
 
 ### Purely Visually Stimulating
 - ["Whitespace"](https://medium.com/designing-medium/whitespace-8b92273ab49e) by Marcin Wichary
-
+- ["Google Web Fonts Typographic Project"](http://femmebot.github.io/google-type/) by Phoebe E
 
 ### Blogs
 
