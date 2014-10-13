@@ -27,6 +27,7 @@ Uh, please do?
 - ["Selecting Typefaces for Body Text"](http://practice.typekit.com/lesson/selecting-typefaces-for-body-text/) by Tim Brown
 
 ### CSS
+- ["Responsive Typography | ARWHD"](http://arwhd.co/css/2014/10/08/responsive-typography/) by Charles Peters
 - ["Fluid Type"](http://trentwalton.com/2012/06/19/fluid-type/) by Trent Walton
 - ["Typesetting your CSS Objects"](http://www.edenspiekermann.com/blog/typesetting-your-css-objects) by Spiros Martzoukos
 - ["Aligning type to baseline the right way using SASS"](https://medium.com/@razvanonofrei/aligning-type-to-baseline-the-right-way-using-sass-e258fce47a9b) by Razvan Onofrei
