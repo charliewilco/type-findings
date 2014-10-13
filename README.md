@@ -37,6 +37,7 @@ Uh, please do?
 - ["There’s more to the CSS rem unit than font sizing"](http://css-tricks.com/theres-more-to-the-css-rem-unit-than-font-sizing/) by Roman Rudenko
 - ["Font Sizing Idea"](http://css-tricks.com/rems-ems/) by Chris Coyier
 - ["Minimising Font Downloads"](http://jakearchibald.com/2014/minimising-font-downloads/) by Jake Archibald
+- ["Loading webfonts with high performance on responsive websites"](http://bdadam.com/blog/loading-webfonts-with-high-performance.html) by Adam Beres-Deak
 
 ### Online Tools
 
